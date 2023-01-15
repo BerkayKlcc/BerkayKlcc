@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-![QA Engineer | SDET](https://github.com/BerkayKlcc/berkayklc/blob/main/Github%20Bannar%20(1).png)
+![QA Engineer | SDET](https://github.com/BerkayKlcc/BerkayKlcc/blob/main/Github%20Bannar%20(1).png)
 
  
 <h3 align="left">About me:</h3>    
