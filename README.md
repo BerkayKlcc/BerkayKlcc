@@ -5,8 +5,8 @@
  
 <h3 align="left">About me:</h3>    
 
-Passionate and detail oriented 3+ experienced Qa engineers. Consistent follower of developing and changing technology. Close friends with test tools for quality products. A friendly person with a master's degree in teamwork, deeply committed to individual research and learning.
-
+Passionate and detail oriented 3+ experienced Qa engineers. Consistent follower of developing and changing technology.
+My responsible for designing and implementing testing strategies for software products, ensuring that they meet high-quality standards. I have a strong background in software testing, with experience in automated testing tools and frameworks such as Selenium and Cucumber. Work effectively with continuous change and short deadlines.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/300px-Java_Logo.svg.png?20111229210123" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
